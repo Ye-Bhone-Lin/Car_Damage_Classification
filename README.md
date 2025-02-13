@@ -37,5 +37,5 @@ Classes:
 
 Here is the demonstration: https://b6kont4ojpe5zpyqy8mgcf.streamlit.app/
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c544ecf3-3207-4d40-bb40-ff15f9fb34d6)
 
